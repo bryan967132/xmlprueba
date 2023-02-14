@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE filesystem "-//NetBeans">
+<!-- Comentario -->
 <pisosArtesanales>
     <piso nombre="ejemplo06">
         <R> 5 </R>
